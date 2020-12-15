@@ -1,1 +1,54 @@
 
+[1]Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should I trust you?" Explaining the predictions of any classifier."Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.
+
+[2] Sato, Makoto, and Hiroshi Tsukimoto. "Rule extraction from neural networks via decision tree induction."IJCNN'01. International Joint Conference on Neural Networks. Proceedings (Cat. No. 01CH37222). Vol. 3. IEEE, 2001.
+
+[3] Zilke, Jan Ruben, Eneldo Loza Mencía, and Frederik Janssen. "Deepred–rule extraction from deep neural networks."International Conference on Discovery Science. Springer, Cham, 2016.
+
+[4] Schmitz, Gregor PJ, Chris Aldrich, and Francois S. Gouws. "ANN-DT: an algorithm for extraction of decision trees from artificial neural networks."IEEE Transactions on Neural Networks10.6 (1999): 1392-1401.
+
+[5] Gallant, Stephen I. "Connectionist expert systems."Communications of the ACM31.2 (1988): 152-169.
+
+[6] Tsukimoto, Hiroshi. "Extracting rules from trained neural networks."IEEE Transactions on Neural networks11.2 (2000): 377-389.
+
+[7] Towell, Geoffrey G., and Jude W. Shavlik. "Extracting refined rules from knowledge-based neural networks."Machine learning13.1 (1993): 71-101.
+
+[8]Zeiler, Matthew D., and Rob Fergus. "Visualizing and understanding convolutional networks."European conference on computer vision. Springer, Cham, 2014.
+
+[9] Ancona, Marco, et al. "Towards better understanding of gradient-based attribution methods for deep neural networks."arXiv preprint arXiv:1711.06104(2017).
+
+[10] Bach, Sebastian, et al. "On pixel-wise explanations for non-linear classifier decisions by layer-wise relevance propagation."PloS one10.7 (2015): e0130140.
+
+[11] Shrikumar, Avanti, Peyton Greenside, and Anshul Kundaje. "Learning important features through propagating activation differences."arXiv preprint arXiv:1704.02685(2017).
+
+[12] Kim, Been, et al. "Tcav: Relative concept importance testing with linear concept activation vectors." (2018).
+
+[13] Yosinski, Jason, et al. "How transferable are features in deep neural networks?."Advances in neural information processing systems. 2014.
+
+[14] Simonyan, Karen, Andrea Vedaldi, and Andrew Zisserman. "Deep inside convolutional networks: Visualising image classification models and saliency maps."arXiv preprint arXiv:1312.6034(2013).
+
+[15] Neyshabur, Behnam, Hanie Sedghi, and Chiyuan Zhang. "What is being transferred in transfer learning?."Advances in Neural Information Processing Systems33 (2020).
+
+[16] Zhou, Bolei, et al. "Object detectors emerge in deep scene cnns."arXiv preprint arXiv:1412.6856(2014).
+
+[17] Bau, David, et al. "Network dissection: Quantifying interpretability of deep visual representations."Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+
+[18] Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Training pruned neural networks."arXiv preprint arXiv:1803.036352 (2018).
+
+[19]Zhang, Quan-shi, and Song-Chun Zhu. "Visual interpretability for deep learning: a survey."Frontiers of Information Technology & Electronic Engineering19.1 (2018): 27-39.
+
+[20] Huk Park, Dong, et al. "Multimodal explanations: Justifying decisions and pointing to the evidence."Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
+
+[21]Xiao, Tianjun, et al. "The application of two-level attention models in deep convolutional neural network for fine-grained image classification."Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
+
+[22]Chen, Xi, et al. "Infogan: Interpretable representation learning by information maximizing generative adversarial nets." Advances in neural information processing systems. 2016.
+
+[23]Zhang, Quanshi, et al. "Interpreting cnn knowledge via an explanatory graph."arXiv preprint arXiv:1708.01785(2017).
+
+[24]Zhang, Quanshi, Ying Nian Wu, and Song-Chun Zhu. "Interpretable convolutional neural networks."Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
+
+[25]Sabour, Sara, Nicholas Frosst, and Geoffrey E. Hinton. "Dynamic routing between capsules."Advances in neural information processing systems. 2017.
+
+[26] Wagner, Jorg, et al. "Interpretable and fine-grained visual explanations for convolutional neural networks."Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
+
+[27]Antol, Stanislaw, et al. "Vqa: Visual question answering."Proceedings of the IEEE international conference on computer vision. 2015.
