@@ -1,7 +1,7 @@
 # BAAI-Monthly- 知源月旦
 Comprehensive and precise reviews of advance AI subfields.
 
-这里持续更新AI各个细分领域的最新进展，以综述形式呈现。每个领域的综述会持续补充最新的工作，如果最近有该方向重要的工作，欢迎补充到各个子领域的文件夹内，我们的领域社群将会及时整理更新。
+这里持续更新AI各个细分领域的最新进展，以综述形式呈现。每个领域的综述会持续补充最新的工作，如果最近有该方向重要的工作，欢迎补充到各个子领域的"推荐阅读"内，我们的领域社群将会及时整理更新。
 如果希望加入研究社群，欢迎点击链接，填写申请：[加入知源月旦](https://link.zhihu.com/?target=https%3A//jinshuju.net/f/zZhrdm)
 
 ## 目录：
