@@ -1,7 +1,5 @@
 ## Transformer + X
 
-BAAI智源社区今天
-
 **写在前面——**
 
 这是一个正在建设的开源综述评论项目，旨在**从海量AI论文中发掘最有价值的研究工作**，并以团队形式定期开展各专题的研究进展梳理。
@@ -404,10 +402,5 @@ XLNet[31] 是 BERT 之后比较引人注目的一个模型，提出了 Permutati
 
 
 ---
-
-
-![图片](https://assets.smcdn.cn/docs/assets/paste_error_placeholder-b6c71c3140.png?fileGuid=aBAYVOx0XVc2De3j)
-
-**点击左下角“阅读原文”，了解更多！**
 
 ## 
