@@ -30,7 +30,7 @@ Transformer +X 研究群：
 
 
 **一、概  述**
-
+***
 
 Transformer模型由Google在2017年在 Attention Is All You Need[1] 中提出。该文使用 Attention 替换了原先Seq2Seq模型中的循环结构，给自然语言处理（NLP）领域带来极大震动。
 
@@ -184,7 +184,7 @@ Transformer 的出现催生出一批基于 Transformer 的语言模型，这些�
 
 
 **二、Transformer in NLP**
-
+***
 ***2.1***
 
 **预训练技术**
