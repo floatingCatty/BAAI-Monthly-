@@ -6,3 +6,5 @@ Comprehensive and precise reviews of advance AI subfields.
 
 ## 目录：
 1. [机器学习的可解释性](https://github.com/floatingCatty/BAAI-Monthly-/blob/main/Interpretability(%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7)/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7.md) [推荐阅读](https://github.com/floatingCatty/BAAI-Monthly-/blob/main/Interpretability(%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7)/References(%E6%8E%A8%E8%8D%90%E9%98%85%E8%AF%BB))
+
+2. [Transformer + X](https://github.com/floatingCatty/BAAI-Monthly-/blob/main/Transformer%2BX/Transformer%2BNLP.md)
